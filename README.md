@@ -15,7 +15,7 @@
 <ol>
             <li>I create the form contact </li>
             <li>I create the Model Contact and the controller contactController </li>
-            <li>I creat the entity contact on database testDKGroup</li>
+            <li>I creat the migration contact on database testDKGroup</li>
             <li>I Make an event  and Listiner </li>
                 <ul>
                     <li>the role of the event is to Fire request and send an Emil notification to olivia.declerck@dkgroup.fr</li>
