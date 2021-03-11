@@ -30,16 +30,12 @@ to send an email to olivia.declerck@dkgroup.fr we need to Change the following S
  
         
 </p>
-           <ul>
-        <li>
-        MAIL_MAILER=smtp
-
-        </li>
+<ul>
+<li>MAIL_MAILER=smtp</li>
 <li>MAIL_HOST=smtp</li>
 <li>MAIL_PORT=1025</li>
 <li>MAIL_USERNAME="Your user Name"</li>
 <li>MAIL_PASSWORD="Your Password"</li>
 <li>MAIL_ENCRYPTION=null</li>
 <li>MAIL_FROM_ADDRESS=null</li>
-
-        </ul>
+</ul>
