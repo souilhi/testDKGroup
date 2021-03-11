@@ -22,3 +22,24 @@
                     <li>the role of listener is to listen will a request is send succussfully to the database</li>
                 </ul>
 </ol>
+<strong>
+Note
+</strong>
+<p>
+to send an email to olivia.declerck@dkgroup.fr we need to Change the following Settings of .env file
+ 
+        
+</p>
+           <ul>
+        <li>
+        MAIL_MAILER=smtp
+
+        </li>
+<li>MAIL_HOST=smtp</li>
+<li>MAIL_PORT=1025</li>
+<li>MAIL_USERNAME="Your user Name"</li>
+<li>MAIL_PASSWORD="Your Password"</li>
+<li>MAIL_ENCRYPTION=null</li>
+<li>MAIL_FROM_ADDRESS=null</li>
+
+        </ul>
